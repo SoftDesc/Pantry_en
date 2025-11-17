@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Pantry</title>
+    <link>https://softdesc.github.io/Pantry_en/</link>
+    <description>Recent content in Home on Pantry</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://softdesc.github.io/Pantry_en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backup</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/9/9/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/9/9/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;9.png&#34;&gt;&lt;img src=&#34;9.png&#34; alt=&#34;Backup&#34;&gt;&lt;/a&gt;&#xA;The &amp;ldquo;Create Backup&amp;rdquo; button allows you to save the data entered into the program in an &amp;ldquo;XML&amp;rdquo; format file. The &amp;ldquo;Restore from Backup&amp;rdquo; button allows you to restore data within the program from an &amp;ldquo;XML&amp;rdquo; format file. NOTE THAT PREVIOUS DATA WILL BE CLEARED!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Consumption of items</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/6/6/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/6/6/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;6.png&#34;&gt;&lt;img src=&#34;6.png&#34; alt=&#34;Consumption of items&#34;&gt;&lt;/a&gt;&#xA;Data on expenditure is stored here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Item description</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/4/4/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/4/4/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;4.png&#34;&gt;&lt;img src=&#34;4.png&#34; alt=&#34;Item description&#34;&gt;&lt;/a&gt;&#xA;An item can have:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Name;&lt;/li&gt;&#xA;&lt;li&gt;Shelf life - can be filled in automatically based on the value from the program settings;&lt;/li&gt;&#xA;&lt;li&gt;Weight - the weight of the item;&lt;/li&gt;&#xA;&lt;li&gt;Quantity - measurement of the item in quantitative terms;&lt;/li&gt;&#xA;&lt;li&gt;Volume - the volume of the item;&lt;/li&gt;&#xA;&lt;li&gt;Recipe - for jars;&lt;/li&gt;&#xA;&lt;li&gt;Picture - a picture can be linked;&lt;/li&gt;&#xA;&lt;li&gt;Description - a description can be specified.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Main page</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/1/1/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/1/1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;1.png&#34;&gt;&lt;img src=&#34;1.png&#34; alt=&#34;Main page&#34;&gt;&lt;/a&gt;&#xA;The main page contains:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a button for entering receipts;&lt;/li&gt;&#xA;&lt;li&gt;a button for entering expenditures;&lt;/li&gt;&#xA;&lt;li&gt;a button for getting information via QR code;&lt;/li&gt;&#xA;&lt;li&gt;a button for generating a stock report;&lt;/li&gt;&#xA;&lt;li&gt;a list of the current stock status of items.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Pantry selection</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/10/10/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/10/10/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;10.png&#34;&gt;&lt;img src=&#34;10.png&#34; alt=&#34;Pantry selection&#34;&gt;&lt;/a&gt;&#xA;The pantry in the program is a place where items are stored.&lt;/p&gt;&#xA;&lt;p&gt;The form allows you to select a pantry when entering data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Printing labels for subsequent receipt entry.</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/3/3/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/3/3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;3.png&#34;&gt;&lt;img src=&#34;3.png&#34; alt=&#34;Printing labels for subsequent receipt entry.&#34;&gt;&lt;/a&gt;&#xA;The &amp;ldquo;Print&amp;rdquo; button allows you to print blank labels and stick them onto the lids. This is so that you can enter the data regarding the recipe and the volume of the preservation (canning/preparation) later.&#xA;This printing sequence is used when the parameter &amp;ldquo;How to enter receipts&amp;rdquo; is set to &amp;ldquo;Print empty QR codes then enter data&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Receipt of items</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/5/5/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/5/5/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;5.png&#34;&gt;&lt;img src=&#34;5.png&#34; alt=&#34;Receipt of items&#34;&gt;&lt;/a&gt;&#xA;Data on received items is stored here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scanning new QR codes</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/13/13/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/13/13/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;13.png&#34;&gt;&lt;img src=&#34;13.png&#34; alt=&#34;Scanning new QR codes&#34;&gt;&lt;/a&gt;&#xA;The form allows you to match (or associate) the scanned QR code with the recipe, volume, and date of manufacture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Selection of the number of jars</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/11/11/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/11/11/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;11.png&#34;&gt;&lt;img src=&#34;11.png&#34; alt=&#34;Selection of the number of jars&#34;&gt;&lt;/a&gt;&#xA;In the &amp;lsquo;Select Quantity&amp;rsquo; form, enter the number of jars numerically:&#xA;&amp;ldquo;&amp;ldquo;X&amp;rdquo;&amp;rdquo; button - clears the entered numbers;&#xA;&amp;ldquo;&amp;quot;&amp;gt;&amp;rdquo;&amp;quot; button - confirms the entry and proceeds to the next screen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Settings description</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/8/8/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/8/8/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;8.png&#34;&gt;&lt;img src=&#34;8.png&#34; alt=&#34;Settings description&#34;&gt;&lt;/a&gt;&#xA;General:&lt;/p&gt;&#xA;&lt;p&gt;How to enter receipts:&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Print empty QR codes then enter data&amp;rdquo; - a case where QR codes containing only unique GUIDs are printed and affixed. Then, when scanning the QR codes, the item parameters are specified: recipe, volume, and quantity.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Enter data then print QR codes&amp;rdquo; - Data for recipes, quantities, and volumes is entered, then QR codes containing the entered information are printed and affixed.&lt;/p&gt;&#xA;&lt;p&gt;Reminders:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stock Balance Report</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/7/7/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/7/7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;7.png&#34;&gt;&lt;img src=&#34;7.png&#34; alt=&#34;Stock Balance Report&#34;&gt;&lt;/a&gt;&#xA;You can view the remaining stock on a specified date in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;quantity terms;&lt;/li&gt;&#xA;&lt;li&gt;by weight;&lt;/li&gt;&#xA;&lt;li&gt;by volume.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Volume selection</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/12/12/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/12/12/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;12.png&#34;&gt;&lt;img src=&#34;12.png&#34; alt=&#34;Volume selection&#34;&gt;&lt;/a&gt;&#xA;Here you can enter the required volume using digits.&#xA;In the volume selection form, you can specify the volume of the jars using digits:&#xA;The &amp;ldquo;&amp;ldquo;X&amp;rdquo;&amp;rdquo; button - clears the entered digits;&#xA;The &amp;ldquo;&amp;quot;&amp;gt;&amp;rdquo;&amp;quot; button - confirms the entry and proceeds to the next screen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thank you</title>
+      <link>https://softdesc.github.io/Pantry_en/posts/thanks/thanks/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/posts/thanks/thanks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/zero&#34;&gt;Zero icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/number-one&#34;&gt;Number one icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/number-2&#34;&gt;Number 2 icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/three&#34;&gt;Three icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/4&#34;&gt;4 icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/number-5&#34;&gt;Number 5 icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/number&#34;&gt;Number icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/number-8&#34;&gt;Number 8 icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About...</title>
+      <link>https://softdesc.github.io/Pantry_en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

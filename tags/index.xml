@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pantry</title>
+    <link>https://softdesc.github.io/Pantry_en/tags/</link>
+    <description>Recent content in Tags on Pantry</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="https://softdesc.github.io/Pantry_en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag-1</title>
+      <link>https://softdesc.github.io/Pantry_en/tags/tag-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/tags/tag-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag-2</title>
+      <link>https://softdesc.github.io/Pantry_en/tags/tag-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://softdesc.github.io/Pantry_en/tags/tag-2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
